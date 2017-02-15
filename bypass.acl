@@ -1,0 +1,18 @@
+# 1.14
+# 2017年2月15日19:45:36 02.15
+#leosam1995
+#实验功能：域名广告关键字拦截
+#屏蔽常用网站广告、视频网站广告、其他流媒体网站广告
+#屏蔽部分运营商劫持网页弹出的漂浮球广告&流量统计
+#拦截常用应用程序的隐私跟踪&行为分析&数据统计&开屏广告
+
+#已有问题：自定义ACL文件强制远程DNS解析
+#所以会因解析问题导致：爱奇艺因版权问题，网页用国外vps无法播放，可使用https、电脑版和app解决
+
+#参照lhie1大神的surge规则改编，致谢!! https://github.com/lhie1/Surge
+#参照scomper大神的surge规则改编，致谢!!https://gist.github.com/scomper/915b04a974f9e11952babfd0bbb241a8/revisions
+#更新记录：https://raw.githubusercontent.com/leosam1995/My_ACL_Rules/master/more/New.md
+#下载地址：https://raw.githubusercontent.com/leosam1995/My_ACL_Rules/master/banAD.acl
+
+#**********************************************************************
+[bypass_all]
