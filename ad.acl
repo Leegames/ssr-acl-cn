@@ -15,6 +15,7 @@
 #下载地址：https://raw.githubusercontent.com/leosam1995/My_ACL_Rules/master/banAD.acl
 
 #**********************************************************************
+[bypass_all]
 #[proxy_all]
 # 默认代理
 ### [outbound_block_list] 禁止访问列表 
