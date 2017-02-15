@@ -19,5 +19,4 @@
 
 
 [proxy_list]
-(^|\.)bilibili\.com$
-(^|\.)baidu\.com$
+(^|\.)(bangumi|interface)\.bilibili\.com$
