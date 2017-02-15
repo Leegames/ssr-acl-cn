@@ -19,4 +19,4 @@
 
 
 [proxy_list]
-(^|\.)bilibili\.com$
+(^|\.)(app|bangumi|interface)\.bilibili\.com$
