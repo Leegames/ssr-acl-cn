@@ -19,5 +19,4 @@
 
 
 [proxy_list]
-(^|\.)(bangumi|interface)\.bilibili\.com$
-47.91.19.168
+(^|\.)bilibili\.com$
